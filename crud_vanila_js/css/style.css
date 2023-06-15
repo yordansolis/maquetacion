@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+    .btn-accion {
+      display: none;
+    }
+    .btn-tel {
+      display: none;
+    }
+    
+    .email {
+      display: block;
+      margin-top: 10px;
+    }
+    .tel {
+      display: block;
+      margin-top: 10px;
+     
+    }
+  }
+  
